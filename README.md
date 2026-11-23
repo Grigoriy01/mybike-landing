@@ -2,7 +2,7 @@
 
 A responsive promotional landing page for **MyBike** electric bicycles built with **semantic HTML5** and **modular SCSS (BEM)**.
 
-🔗 **[Live Demo](https://grigoriy01.github.io/<имя-репозитория>/)** *(замени на актуальную ссылку)*
+🔗 **[Live Demo](https://grigoriy01.github.io/mybike-landing/)**
 
 ---
 
@@ -23,7 +23,5 @@ A responsive promotional landing page for **MyBike** electric bicycles built wit
 - **Parcel:** Zero-config bundler for local development and production builds.
 
 ---
-
-## Getting Started
 
 
